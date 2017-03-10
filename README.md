@@ -1,6 +1,6 @@
 En este repositorio van a encontrar las clases del curso de bioinformática 2016 para biotecnología UNAB
 
-- [Clase 01 - Bases de datos biológicas 2017](https://github.com/bioinf-biotec/clases_bioinf/raw/master/clase01.pdf)  
+- [Clase 01 - Bases de datos biológicas 2017](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c01_2017.pdf)  
 
 Clases año  2016  
 
