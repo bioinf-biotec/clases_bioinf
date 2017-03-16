@@ -2,12 +2,5 @@ En este repositorio van a encontrar las clases del curso de bioinformática 2017
 
 Recuerden revisar el programa de la clase, el cual pueden encontrar [aquí](https://github.com/bioinf-biotec/clases_bioinf/raw/master/Bioinformatica_2017_final.pdf)
 
-- [Clase 01 - Bases de datos biológicas 2017](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c01_2017.pdf)  
-
-Clases año  2016 - si les interesa revisar las clases del año pasado: 
-
-- [Clase 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/clases_bioinf/raw/master/clase02.pdf)  
-- [Clase 03 - Ensamblaje de genomas](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c03.pdf)  
-- [Clase 04 - Filogenética](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c04.pdf)  
-- [Clase 05 - Metagenómica](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c05.pdf)  
-
+- [Clase 01 - Bases de datos biológicas](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c01_2017.pdf)  
+- [Clase 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c02_2017.pdf)
