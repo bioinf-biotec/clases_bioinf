@@ -6,3 +6,4 @@ Recuerden revisar el programa de la clase, el cual pueden encontrar [aquí](http
 - [Clase 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c02_2017.pdf)
 - [Clase 03 - Ensamblaje y anotación de genomas](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c03_2017.pdf)
 - [Clase 04 - Filogenética Molecular](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c04_2017.pdf)
+- [Clase 05 - Metagenómica](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c05_2017.pdf)
