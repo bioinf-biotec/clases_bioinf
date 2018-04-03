@@ -9,3 +9,4 @@ Recuerden revisar el programa de la clase, el cual pueden encontrar [aquí](http
 - [Clase 01 - Bases de datos biológicas](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c01_2018.pdf).   
 - [Clase 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c02_2018.pdf). 
 - [Clase 03 - Ensamblaje de genomas](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c03_2018.pdf). 
+- [Clase 04 - Filogenética Molecular](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c04_2018.pdf). 
