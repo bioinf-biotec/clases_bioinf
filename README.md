@@ -5,9 +5,9 @@
 
 ### Clases
 
-- **[Clase 01 - Bases de datos biológicas]()**.
+- **[Clase 01 - Bases de datos biológicas](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c01_2018_2.pdf)**.
    
-- [Clase 02 - Alineamiento de secuencias](). 
+- **[Clase 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c02_2018_2.pdf)**. 
 
 - [Clase 03 - Ensamblaje de genomas](). 
 
