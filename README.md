@@ -11,6 +11,6 @@
 
 - **[Clase 03 - Ensamblaje de genomas](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c03_2018_2.pdf)**.  
 
-- [Clase 04 - Filogenética Molecular](). 
+- **[Clase 04 - Filogenética Molecular](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c04_2018_2.pdf)**.  
 
 - [Clase 05 - Metagenómica](). 
