@@ -13,4 +13,5 @@
 
 - **[Clase 04 - Filogenética Molecular](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c04_2018_2.pdf)**.  
 
-- [Clase 05 - Metagenómica](). 
+- **[Clase 05 - Metagenómica](https://github.com/bioinf-biotec/clases_bioinf/raw/master/c05_2018_2.pdf)**.   
+
